@@ -5,18 +5,18 @@ html
 
 body 
 {
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(24, 24, 24);
     color: whitesmoke;
 }
 
 a 
 {
-    color: rgb(114, 187, 255);
+    color: rgb(135, 197, 255);
 }
 
 a:hover
 {
-    color: rgb(151, 205, 255);
+    color: rgb(174, 216, 255);
 }
 
 a:active
@@ -26,8 +26,13 @@ a:active
 
 table, tr, th, td, caption
 {
-    border: 1px solid #eee;
+    border: 1px solid rgb(183, 216, 235);
     font-family: 'Courier New', Courier, monospace;
     border-collapse: collapse;
     padding: 0.5rem;
+}
+
+img:hover
+{
+    width: 30%;
 }
