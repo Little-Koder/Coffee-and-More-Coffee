@@ -1,33 +1,34 @@
 html
 {
-    font-size: 20px;
+    font-size: 1.3rem;
 }
 
 body 
 {
-    background-color: rgb(24, 24, 24);
-    color: whitesmoke;
+    background-color: rgb(22, 26, 31);
+    color: rgb(182, 197, 211);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 a 
 {
-    color: rgb(135, 197, 255);
+    color: rgb(127, 180, 230);
 }
 
 a:hover
 {
-    color: rgb(174, 216, 255);
+    color: rgb(159, 195, 230);
 }
 
 a:active
 {
-    color: rgb(81, 171, 255);
+    color: rgb(99, 166, 228);
 }
 
 table, tr, th, td, caption
 {
     border: 1px solid rgb(183, 216, 235);
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-collapse: collapse;
     padding: 0.5rem;
 }
@@ -35,4 +36,9 @@ table, tr, th, td, caption
 img:hover
 {
     width: 30%;
+}
+
+.big-letter
+{
+    font-size: 1.4rem;
 }
