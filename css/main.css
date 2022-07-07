@@ -13,6 +13,7 @@ body
 a 
 {
     color: rgb(127, 180, 230);
+    text-decoration-thickness: 0.2rem;
 }
 
 a:hover
@@ -27,7 +28,7 @@ a:active
 
 table, tr, th, td, caption
 {
-    border: 1px solid rgb(183, 216, 235);
+    border: 0.1rem solid rgb(183, 216, 235);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-collapse: collapse;
     padding: 0.5rem;
@@ -41,4 +42,19 @@ img:hover
 .big-letter
 {
     font-size: 1.4rem;
+}
+
+#underline
+{
+    text-decoration: underline;
+}
+
+#blur-shadow
+{
+    text-shadow: 0.3rem 0.2rem 0.1rem rgb(40, 57, 68);
+}
+
+.align-center
+{
+    text-align: center;
 }
