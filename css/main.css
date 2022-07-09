@@ -1,10 +1,6 @@
-html
+html, body
 {
-    font-size: 1.3rem;
-}
-
-body 
-{
+    font-size: 100%;
     background-color: rgb(22, 26, 31);
     color: rgb(182, 197, 211);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
