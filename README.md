@@ -5,3 +5,6 @@
 
  Made by... Little-Koder. (Other usernames are Little_Coder and little_coder)
  This reopo is licensed under the MIT license.
+ 
+ *NEW*
+       By this point this project is finished! It helped me to review what I have learned and what I need to learn. On to CSS now!
